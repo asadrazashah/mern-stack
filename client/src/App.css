@@ -1,0 +1,36 @@
+.items {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbbar {
+  background: #fff;
+}
+.jobsbody {
+  padding-top: 10px;
+  background: #ece9e7;
+}
+.cardd {
+  padding-bottom: 10px;
+  color: black;
+}
+.cardd :hover {
+  cursor: pointer;
+}
+.formbody {
+  padding: 20px;
+  background: #d2c3c3;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer {
+  background: #fff;
+}
+.styled {
+  padding: 60px;
+  background: #d2c3c3;
+}
+.contact-form {
+  margin-bottom: 60px;
+}
+.job-description {
+  margin-top: 20px;
+}
